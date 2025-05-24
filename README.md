@@ -179,5 +179,5 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 👥 Contact
 
 For any queries or support, please reach out to:
-- Email: anishwork69@gmail.com
-- Phone: +91 8127210707 
+- Email: csudhir302@gmail.com
+- Phone: +91 9125137806
